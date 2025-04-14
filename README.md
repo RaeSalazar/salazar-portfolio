@@ -1,2 +1,2 @@
-# 2025-design-potfolio
-Personal Portfolio for Glenn Evans
+# salazar-porfolio
+Personal Portfolio of Raeya Salazar
